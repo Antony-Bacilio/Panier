@@ -1,6 +1,0 @@
-# log php errors
-php_flag display_startup_errors on
-php_flag display_errors on
-php_flag html_errors on
-
-(changer le nom au moment de sauvegarder cette fiche: ".htaccess" pour montrer les errors)
